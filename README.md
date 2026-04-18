@@ -87,8 +87,8 @@ The dashboard includes the following charts:
 Car-Sales-Analytics-Dashboard
 │
 ├── Dataset/
-│   └── cars_dataset
-│   └── Norway_car_sales_by_model
+│   └── cars_dataset.xlsx
+│   └── Norway_car_sales_by_model.csv
 │
 ├── A2_20_AnyaPorwal_DAV_Project.pbix
 ├── Dashboard.png
