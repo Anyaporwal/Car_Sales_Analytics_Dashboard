@@ -69,7 +69,7 @@ The dashboard includes the following charts:
 
 ## 📸 Dashboard Preview
 
-![Car Sales Analytics_Dashboard](dashboard.png)
+![Car Sales Analytics_Dashboard](Dashboard.png)
 
 ---
 
