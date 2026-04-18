@@ -69,7 +69,7 @@ The dashboard includes the following charts:
 
 ## 📸 Dashboard Preview
 
-![Car Sales Analytics_Dashboard](images/dashboard.png)
+![Car Sales Analytics_Dashboard](dashboard.png)
 
 ---
 
@@ -86,17 +86,12 @@ The dashboard includes the following charts:
 ```
 Car-Sales-Analytics-Dashboard
 │
-├── dataset/
-│   ├── Brands_Master_Data
-│   ├── cars_dataset
+├── Dataset/
+│   └── cars_dataset
 │   └── Norway_car_sales_by_model
 │
-├── dashboard/
-│   └── Car_Sales_Dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
+├── A2_20_AnyaPorwal_DAV_Project.pbix
+├── Dashboard.png
 └── README.md
 ```
 
